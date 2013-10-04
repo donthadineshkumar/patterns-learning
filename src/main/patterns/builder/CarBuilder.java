@@ -2,6 +2,9 @@ package patterns.builder;
 
 import patterns.builder.model.Car;
 
+/**
+ * Implementation, as used on SMB EE project.
+ */
 public class CarBuilder {
 
     private Car prototype;
