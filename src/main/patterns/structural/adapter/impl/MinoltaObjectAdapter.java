@@ -1,10 +1,12 @@
-package patterns.structural.adapter.model;
+package patterns.structural.adapter.impl;
+
+import patterns.structural.adapter.Printable;
 
 /**
  * Date: 10/12/13
  * Time: 5:07 PM
  */
-public class MinoltaObjectAdapter  implements Printable{
+public class MinoltaObjectAdapter  implements Printable {
     private Minolta minolta = new Minolta();
 
     @Override

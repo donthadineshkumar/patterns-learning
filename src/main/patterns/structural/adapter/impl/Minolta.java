@@ -1,4 +1,4 @@
-package patterns.structural.adapter.model;
+package patterns.structural.adapter.impl;
 
 /**
  * Date: 10/12/13

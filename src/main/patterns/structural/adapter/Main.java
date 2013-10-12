@@ -1,6 +1,6 @@
 package patterns.structural.adapter;
 
-import patterns.structural.adapter.model.*;
+import patterns.structural.adapter.impl.*;
 
 import java.util.ArrayList;
 import java.util.List;
